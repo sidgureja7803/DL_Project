@@ -35,9 +35,9 @@ This repository contains the **complete implementation** of a novel deep learnin
 
 ## 📄 Research Documentation
 
-The complete research documentation including literature survey, methodology, and detailed analysis is available in the repository:
+The complete research documentation including literature survey, methodology, and detailed analysis is available online:
 
-**📎 [REPORT - Speech Intent Recognition System Using Wav2Vec2.pdf](./REPORT%20-%20Speech%20Intent%20Recognition%20System%20Using%20Wav2Vec2.pdf)**
+**📎 [View Research Documentation (Google Docs)](https://docs.google.com/document/d/13EiCY25ipRTFf8PPHaaIfgVPSLeNdAGlO2WdVs2XqSM/edit?usp=sharing)** 🔗
 
 This document includes:
 - ✅ **Literature Survey**: Comprehensive review of 10+ recent papers on speech intent recognition and transformer-based audio models

@@ -37,7 +37,7 @@ This repository contains the **complete implementation** of a novel deep learnin
 
 The complete research documentation including literature survey, methodology, and detailed analysis is available online:
 
-**📎 [View Research Documentation (Google Docs)](https://docs.google.com/document/d/13EiCY25ipRTFf8PPHaaIfgVPSLeNdAGlO2WdVs2XqSM/edit?usp=sharing)** 🔗
+**📎 [View Research Documentation (Google Docs)](https://docs.google.com/document/d/1xiVirGyoNDOFSXJZtS8Gj-N9UrMVS4mey8YbEvFCbLk/edit?usp=sharing)** 🔗
 
 This document includes:
 - ✅ **Literature Survey**: Comprehensive review of 10+ recent papers on speech intent recognition and transformer-based audio models

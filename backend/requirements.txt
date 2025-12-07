@@ -1,0 +1,10 @@
+fastapi
+torch
+soundfile
+huggingface_hub
+transformers
+gunicorn
+numpy
+uvicorn
+gradio
+librosa

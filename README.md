@@ -1,7 +1,7 @@
 # Speech Intent Recognition System Using Wav2Vec2
 
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/avi292423/Speech-Intent-Recognition)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-informational)](https://github.com/avi2924/Speech-Project-Final-Iteration)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-informational)](https://github.com/sidgureja7803/DL_Project)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A deep learning project for real-time speech intent classification using a fine-tuned Wav2Vec2.0 model. This system can understand spoken commands like "Turn off the lights" directly from raw audio, making it ideal for voice-controlled applications and smart assistants.
